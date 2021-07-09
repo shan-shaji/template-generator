@@ -1,7 +1,7 @@
 {
   "name": "@shan-shaji/arkroot-cli",
   "version": "1.0.0",
-  "description": "A cli tool to create projects",
+  "description": "A cli tool to bootstrap projects",
   "main": "src/cli.js",
   "bin": {
     "@shan-shaji/arkroot-cli": "bin/arkroot-cli.js",
